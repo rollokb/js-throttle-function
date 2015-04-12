@@ -1,0 +1,18 @@
+{
+  "author": "Rollo Konig-Brock",
+  "name": "throttle-function",
+  "description": "Limits the number of times that a function can be called per second",
+  "version": "0.1.1",
+  "repository": {
+    "url": ""
+  },
+  "main": "./index",
+  "keywords": [
+    "throttle",
+    "function"
+  ],
+  "dependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
